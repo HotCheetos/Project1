@@ -710,3 +710,32 @@ LogInit: Object subsystem initialized
 [2018.04.17-01.26.10:077][260]SourceControl:  create mode 100644 MySharedProject/MySharedProject.uproject
 [2018.04.17-01.26.10:081][260]SourceControl: Commited [master c8f7e0c] commit.
 [2018.04.17-01.26.45:916][368]LogSlate: Window 'Source Control Login' being destroyed
+[2018.04.17-01.45.40:612][961]SourceControl: fatal: C:/Users/MV Coder/Documents/Unreal/UE_4.19/Engine/Content: 'C:/Users/MV Coder/Documents/Unreal/UE_4.19/Engine/Content' is outside repository
+[2018.04.17-01.45.40:722][961]EditorErrors: Warning: No assets to check in!
+[2018.04.17-01.45.48:953][561]LogSlate: Took 0.000237 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.04.17-01.45.49:258][561]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.04.17-01.45.50:003][561]LogSlate: Took 0.001079 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.17-01.45.50:227][562]LogSlate: Took 0.001322 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.17-01.46.04:184][468]LogSavePackage: Save=68.15ms
+[2018.04.17-01.46.04:184][468]LogSavePackage: Moving '../../../../../../Desktop/UnrealGit/Project1/MySharedProject/Saved/FirstPersonCharacter932CEC914FC643882D8C89951224D91D.tmp' to '../../../../../../Desktop/UnrealGit/Project1/MySharedProject/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.04.17-01.46.04:188][468]LogSavePackage: Display: Finished SavePackage ../../../../../../Desktop/UnrealGit/Project1/MySharedProject/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.04.17-01.46.05:088][527]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.04.17-01.46.07:578][641]LogSavePackage: Save=65.61ms
+[2018.04.17-01.46.07:578][641]LogSavePackage: Moving '../../../../../../Desktop/UnrealGit/Project1/MySharedProject/Saved/FirstPersonCharacter4430C81E40E1812D916082A25545DCB1.tmp' to '../../../../../../Desktop/UnrealGit/Project1/MySharedProject/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.04.17-01.46.07:580][641]LogSavePackage: Display: Finished SavePackage ../../../../../../Desktop/UnrealGit/Project1/MySharedProject/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.04.17-01.46.09:102][734]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2018.04.17-01.46.09:105][734]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2018.04.17-01.46.11:637][946]LogSavePackage: Save=133.38ms
+[2018.04.17-01.46.11:637][946]LogSavePackage: Moving '../../../../../../Desktop/UnrealGit/Project1/MySharedProject/Saved/FirstPersonExampleMapAFB20AF04627A24DDB54E4894C221764.tmp' to '../../../../../../Desktop/UnrealGit/Project1/MySharedProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.04.17-01.46.11:640][946]LogSavePackage: Display: Finished SavePackage ../../../../../../Desktop/UnrealGit/Project1/MySharedProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.04.17-01.46.11:648][946]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.239
+[2018.04.17-01.46.14:809][226]SourceControl: fatal: C:/Users/MV Coder/Documents/Unreal/UE_4.19/Engine/Content: 'C:/Users/MV Coder/Documents/Unreal/UE_4.19/Engine/Content' is outside repository
+[2018.04.17-01.46.26:651][226]LogSlate: Window 'Submit Files' being destroyed
+[2018.04.17-01.46.27:367][226]LogSourceControl: commit successful: [master a87882c] added double jump
+[2018.04.17-01.46.27:463][226]SourceControl: [master a87882c] added double jump
+[2018.04.17-01.46.27:463][226]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2018.04.17-01.46.27:463][226]SourceControl:  rewrite MySharedProject/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset (89%)
+[2018.04.17-01.46.27:467][226]SourceControl: Commited [master a87882c] added double jump.
+[2018.04.17-01.47.20:124][408]LogSlate: Window 'Source Control Login' being destroyed
+[2018.04.17-01.47.24:961][803]SourceControl: fatal: C:/Users/MV Coder/Documents/Unreal/UE_4.19/Engine/Content: 'C:/Users/MV Coder/Documents/Unreal/UE_4.19/Engine/Content' is outside repository
+[2018.04.17-01.47.25:071][803]EditorErrors: Warning: No assets to check in!
